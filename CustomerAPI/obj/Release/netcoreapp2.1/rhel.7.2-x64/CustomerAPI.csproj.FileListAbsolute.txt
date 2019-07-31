@@ -1,0 +1,14 @@
+C:\Users\Bharat\source\repos\CustomerAPI\CustomerAPI\bin\Release\netcoreapp2.1\rhel.7.2-x64\CustomerAPI.deps.json
+C:\Users\Bharat\source\repos\CustomerAPI\CustomerAPI\bin\Release\netcoreapp2.1\rhel.7.2-x64\CustomerAPI.runtimeconfig.json
+C:\Users\Bharat\source\repos\CustomerAPI\CustomerAPI\bin\Release\netcoreapp2.1\rhel.7.2-x64\CustomerAPI.runtimeconfig.dev.json
+C:\Users\Bharat\source\repos\CustomerAPI\CustomerAPI\bin\Release\netcoreapp2.1\rhel.7.2-x64\CustomerAPI.dll
+C:\Users\Bharat\source\repos\CustomerAPI\CustomerAPI\bin\Release\netcoreapp2.1\rhel.7.2-x64\CustomerAPI.pdb
+C:\Users\Bharat\source\repos\CustomerAPI\CustomerAPI\obj\Release\netcoreapp2.1\rhel.7.2-x64\CustomerAPI.csprojAssemblyReference.cache
+C:\Users\Bharat\source\repos\CustomerAPI\CustomerAPI\obj\Release\netcoreapp2.1\rhel.7.2-x64\CustomerAPI.csproj.CoreCompileInputs.cache
+C:\Users\Bharat\source\repos\CustomerAPI\CustomerAPI\obj\Release\netcoreapp2.1\rhel.7.2-x64\CustomerAPI.RazorAssemblyInfo.cache
+C:\Users\Bharat\source\repos\CustomerAPI\CustomerAPI\obj\Release\netcoreapp2.1\rhel.7.2-x64\CustomerAPI.RazorAssemblyInfo.cs
+C:\Users\Bharat\source\repos\CustomerAPI\CustomerAPI\obj\Release\netcoreapp2.1\rhel.7.2-x64\CustomerAPI.AssemblyInfoInputs.cache
+C:\Users\Bharat\source\repos\CustomerAPI\CustomerAPI\obj\Release\netcoreapp2.1\rhel.7.2-x64\CustomerAPI.AssemblyInfo.cs
+C:\Users\Bharat\source\repos\CustomerAPI\CustomerAPI\obj\Release\netcoreapp2.1\rhel.7.2-x64\CustomerAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Bharat\source\repos\CustomerAPI\CustomerAPI\obj\Release\netcoreapp2.1\rhel.7.2-x64\CustomerAPI.dll
+C:\Users\Bharat\source\repos\CustomerAPI\CustomerAPI\obj\Release\netcoreapp2.1\rhel.7.2-x64\CustomerAPI.pdb

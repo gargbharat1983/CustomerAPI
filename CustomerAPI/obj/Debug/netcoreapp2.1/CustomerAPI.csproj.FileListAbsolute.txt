@@ -1,0 +1,14 @@
+C:\Users\Bharat\source\repos\CustomerAPI\CustomerAPI\bin\Debug\netcoreapp2.1\CustomerAPI.deps.json
+C:\Users\Bharat\source\repos\CustomerAPI\CustomerAPI\bin\Debug\netcoreapp2.1\CustomerAPI.runtimeconfig.json
+C:\Users\Bharat\source\repos\CustomerAPI\CustomerAPI\bin\Debug\netcoreapp2.1\CustomerAPI.runtimeconfig.dev.json
+C:\Users\Bharat\source\repos\CustomerAPI\CustomerAPI\bin\Debug\netcoreapp2.1\CustomerAPI.dll
+C:\Users\Bharat\source\repos\CustomerAPI\CustomerAPI\obj\Debug\netcoreapp2.1\CustomerAPI.csprojAssemblyReference.cache
+C:\Users\Bharat\source\repos\CustomerAPI\CustomerAPI\obj\Debug\netcoreapp2.1\CustomerAPI.csproj.CoreCompileInputs.cache
+C:\Users\Bharat\source\repos\CustomerAPI\CustomerAPI\obj\Debug\netcoreapp2.1\CustomerAPI.RazorAssemblyInfo.cache
+C:\Users\Bharat\source\repos\CustomerAPI\CustomerAPI\obj\Debug\netcoreapp2.1\CustomerAPI.RazorAssemblyInfo.cs
+C:\Users\Bharat\source\repos\CustomerAPI\CustomerAPI\obj\Debug\netcoreapp2.1\CustomerAPI.AssemblyInfoInputs.cache
+C:\Users\Bharat\source\repos\CustomerAPI\CustomerAPI\obj\Debug\netcoreapp2.1\CustomerAPI.AssemblyInfo.cs
+C:\Users\Bharat\source\repos\CustomerAPI\CustomerAPI\obj\Debug\netcoreapp2.1\CustomerAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Bharat\source\repos\CustomerAPI\CustomerAPI\bin\Debug\netcoreapp2.1\CustomerAPI.pdb
+C:\Users\Bharat\source\repos\CustomerAPI\CustomerAPI\obj\Debug\netcoreapp2.1\CustomerAPI.dll
+C:\Users\Bharat\source\repos\CustomerAPI\CustomerAPI\obj\Debug\netcoreapp2.1\CustomerAPI.pdb
